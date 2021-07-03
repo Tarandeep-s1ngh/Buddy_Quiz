@@ -5,7 +5,7 @@ Take the quiz and check yourself!
 
 Compare your score with the following Buddy Meter.
 
-BUDDY METER :-
+BUDDY METER :-  
 0/4 - Not a buddy ⛔  
 1/4 - New buddy 🤝🏻  
 2/4 - Old buddy but not close 😀  
