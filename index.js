@@ -37,6 +37,9 @@ var questions = [{
   question: "What is the name of my favourite anime? ",
   answer: "naruto"
 }, {
+  question: "Where do I live? ",
+  answer: "jalandhar"
+}, {
   question: "which one do I like? Coffee or Tea? ",
   answer: "coffee"
 }]
