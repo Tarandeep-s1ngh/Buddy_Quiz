@@ -6,8 +6,9 @@ Take the quiz and check yourself!
 Compare your score with the following Buddy Meter.
 
 BUDDY METER :-  
-0/4 - Not a buddy ⛔  
-1/4 - New buddy 🤝🏻  
-2/4 - Old buddy but not close 😀  
-3/4 - Close buddy 🥳  
-4/4 - Best buddy 👑  
+0/5 - Not a buddy ⛔  
+1/5 - New buddy 🤝🏻  
+2/5 - Old buddy but not in touch 😀  
+3/5 - Buddy but not close ✨  
+4/5 - Close buddy 🥳  
+5/5 - Best buddy 👑  
