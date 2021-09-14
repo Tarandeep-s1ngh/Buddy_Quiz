@@ -12,3 +12,5 @@ BUDDY METER :-
 3/5 - Buddy but not close ✨  
 4/5 - Close buddy 🥳  
 5/5 - Best buddy 👑  
+
+[See it in action!](https://replit.com/@TarandeepS1ngh/BuddyQuiz?embed=1&output=1#index.js)
